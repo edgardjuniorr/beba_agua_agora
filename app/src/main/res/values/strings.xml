@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Beba Àgua - agora</string>
+    <string name="hint_peso">Seu Peso (Kg)</string>
+    <string name="hint_idade">Sua Idade</string>
 </resources>
